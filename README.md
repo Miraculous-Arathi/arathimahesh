@@ -1,6 +1,5 @@
 
-<!--- 🔭 I’m currently working on dancing
-- 🌱 I’m currently learning coding
+My profile:
 -
 **arathimahesh/arathimahesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
