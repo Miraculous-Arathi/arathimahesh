@@ -10,5 +10,5 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on my coding skills
 - 🤔 I’m looking for help with nothing
 - 💬 Ask me about anything
-
+- 🦄 I'm always happy
 -->
